@@ -37,14 +37,11 @@ Please note that the component has the above data-testid attributes for test cas
 
 **Commands**
 - run: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm start
+```npm start
 ```
 - install: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm install
+```npm install
 ```
 - test: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm test
+```npm test
 ```
