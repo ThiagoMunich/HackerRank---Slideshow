@@ -39,15 +39,12 @@ Please note that the component has the above data-testid attributes for test cas
 - run: 
 ```
 npm start
-
 ```
 - install: 
 ```
 npm install
-
 ```
 - test: 
 ```
 npm test
-
 ```
