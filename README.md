@@ -37,11 +37,17 @@ Please note that the component has the above data-testid attributes for test cas
 
 **Commands**
 - run: 
-```npm start
+```
+npm start
+
 ```
 - install: 
-```npm install
+```
+npm install
+
 ```
 - test: 
-```npm test
+```
+npm test
+
 ```
